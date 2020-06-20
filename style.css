@@ -1,0 +1,19 @@
+* {
+	background-color: #1f1e1e
+}
+
+.info a {
+    margin-left: 10px;
+    text-decoration: none;
+    font: normal 100% 'Comfortaa',sans-serif;
+    font-size: 10px;
+    color: white;
+    text-align: center;
+}
+.info a:hover {
+    margin-left: 15px;
+    font: normal 100% 'Comfortaa',sans-serif;
+    font-size: 18px;
+    text-decoration: none;
+}
+
